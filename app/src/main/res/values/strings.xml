@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EightBall</string>
+    <string name="app_logo">Make everyday decisions easier!</string>
+    <string name="btn_text">ASK</string>
+</resources>
